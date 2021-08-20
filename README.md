@@ -1,3 +1,3 @@
-##carSimulation
+## carSimulation
 
-###This repo was created to understand how **git submodules** work
+### This repo was created to understand how **git submodules** work
